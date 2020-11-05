@@ -2,7 +2,18 @@
 ![Python3.7](https://img.shields.io/badge/Python-3.7-blue.svg) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0.23.2-range.svg)
 
 ![image](./README_imgs/aifreeteam.png)
-
+Welcome to the course 《Python: from business analytics to Artificial Intelligence》 by AI. FREE Team.  
+歡迎大家來到 AI. FREE Team 《Python 從商業分析到人工智慧》的第二堂課，機器學習(ML)基礎教學。 
+<br/>
+  
+  
+## 系列課程說明 Course Description
+ - 《Pyhon 從商業分析到人工智慧》系列課程將透過 <b>Google Colab</b> 進行學習。(<a href="https://colab.research.google.com">Google Colab是什麼？</a>)
+ - 本系列課程將<b>免費</b>提供給中文使用者學習資料科學，但不提供第三方做商業用途。(商業合作請洽<a href="mailto:ai.free.team@gamil.com">AI . FREE Team</a>) 
+ - 本系列課程將從<b>基礎 Python</b>的使用，到<b>人工智慧</b>的開發，讀者歡迎追蹤 <a href="https://www.facebook.com/AI.Free.Team/"> 粉絲專頁</a>並加入 <a href="https://www.facebook.com/groups/AI.Free.Community/"> 自由團隊-學習社團</a>。
+<br/>
+  
+  
 ## 課程內容 Contents
 ### Topic 1: 認識基礎套件  
 - [認識 NumPy( Numeric Python )]()   
@@ -51,9 +62,9 @@
 
 
 ## 參考資源 References  
-[1] [NumPy - Quickstart](https://numpy.org/devdocs/user/quickstart.html)
-[2] [Pandas - Getting started tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
-[3] [Scikit Learn](https://scikit-learn.org/stable/)
+[1] [NumPy - Quickstart](https://numpy.org/devdocs/user/quickstart.html)  
+[2] [Pandas - Getting started tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)  
+[3] [Scikit Learn](https://scikit-learn.org/stable/)  
 <br/>
 
 
