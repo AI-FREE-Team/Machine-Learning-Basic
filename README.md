@@ -1,5 +1,5 @@
 # Machine Learning Basic
-![Python3.7](https://img.shields.io/badge/Python-3.7-blue.svg) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0.23.2-range.svg)
+![Python3.6](https://img.shields.io/badge/Python-3.6-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.18-range.svg) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0.23.2-range.svg)
 
 ![image](./README_imgs/aifreeteam.png)
 Welcome to the course 《Python: from business analytics to Artificial Intelligence》 by AI. FREE Team.  
@@ -14,9 +14,9 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 <br/>
   
   
-## 課程內容 Contents
+## 課程大綱 Course Outline
 ### Topic 1: 認識基礎套件  
-- [認識 NumPy( Numeric Python )](https://colab.research.google.com/drive/1hH30YgMebLXWmX2inb5FjhLyrFonjpZU?usp=sharing)   
+- [認識 NumPy](https://colab.research.google.com/drive/1hH30YgMebLXWmX2inb5FjhLyrFonjpZU?usp=sharing)  
 - [認識 Pandas]()  
 - [認識 SciPy]()
 - [認識 Matplot]()
