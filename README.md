@@ -15,7 +15,7 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
   
   
 ## 課程大綱 Course Outline
-### Topic 1: 認識基礎套件  
+### Topic 1: 認識基礎套件   
 - [認識 NumPy](https://colab.research.google.com/drive/1hH30YgMebLXWmX2inb5FjhLyrFonjpZU?usp=sharing)  
 - [認識 Pandas]()  
 - [認識 SciPy]()
