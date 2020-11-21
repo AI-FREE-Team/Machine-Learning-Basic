@@ -1,5 +1,5 @@
 # Machine Learning Basic
-![Python3.6](https://img.shields.io/badge/Python-3.6-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.18-range.svg) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0.23.2-range.svg)
+![Python3.6](https://img.shields.io/badge/Python-3.6-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.18.5-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.1.4-range.svg) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0.23.2-range.svg)
 
 ![image](./README_imgs/aifreeteam.png)
 Welcome to the course 《Python: from business analytics to Artificial Intelligence》 by AI. FREE Team.  
