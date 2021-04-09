@@ -63,13 +63,11 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 
 ## 參考資源 References  
 
-### 使用指南 User Guide
+> ### 使用指南 User Guide
 [1] [NumPy](https://numpy.org/doc/stable/user/index.html)  
 [2] [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)  
 [3] [Scikit Learn](https://scikit-learn.org/stable/user_guide.html)  
-<br/>
-
-### 文章 Articles
+> ### 文章 Articles
 [1] [Introduction to Pandas apply, applymap and map](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff, 'DataFrame 中欄位運算的方法')
 <br/>
 
