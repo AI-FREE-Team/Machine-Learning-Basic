@@ -1,5 +1,5 @@
 # Machine Learning Basic
-![Python3.7](https://img.shields.io/badge/Python-3.7-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.19.5-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.1.4-range.svg) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0.23.2-range.svg)
+![Python](https://img.shields.io/badge/Python-3.7-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.19.5-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.1.5-range.svg) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0.23.2-range.svg)
 
 ![image](./README_imgs/aifreeteam.png)
 Welcome to the course 《Python: from business analytics to Artificial Intelligence》 by AI. FREE Team.  
@@ -17,7 +17,7 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 ## 課程大綱 Course Outline
 ### Topic 1: 認識基礎套件 Basic Packages     
 - [![Colab](https://img.shields.io/badge/認識_NumPy-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1hH30YgMebLXWmX2inb5FjhLyrFonjpZU?usp=sharing) 
-- [認識 Pandas](https://colab.research.google.com/drive/13ToJrKV3XfCRjcqnFA1baTOW2TA-unEo?usp=sharing)  
+- [![Colab](https://img.shields.io/badge/認識_Pandas-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/13ToJrKV3XfCRjcqnFA1baTOW2TA-unEo?usp=sharing) 
 - [認識 SciPy]()
 - [認識 Matplot]()
 
@@ -62,11 +62,16 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 
 
 ## 參考資源 References  
-[1] [NumPy - Quickstart](https://numpy.org/devdocs/user/quickstart.html)  
-[2] [Pandas - Getting started tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)  
-[3] [Scikit Learn](https://scikit-learn.org/stable/)  
+
+### 使用指南 User Guide
+[1] [NumPy](https://numpy.org/doc/stable/user/index.html)  
+[2] [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)  
+[3] [Scikit Learn](https://scikit-learn.org/stable/user_guide.html)  
 <br/>
 
+### 文章 Articles
+[1] [Introduction to Pandas apply, applymap and map](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff, 'DataFrame 中欄位運算的方法')
+<br/>
 
 ## 作者 Authors
 <span> - &copy; Tom Wu (<a href="https://github.com/YenLinWu">Github</a>) </span>  
