@@ -1,5 +1,5 @@
 # Machine Learning Basic
-![Python3.6](https://img.shields.io/badge/Python-3.6-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.18.5-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.1.4-range.svg) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0.23.2-range.svg)
+![Python3.7](https://img.shields.io/badge/Python-3.7-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.19.5-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.1.4-range.svg) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0.23.2-range.svg)
 
 ![image](./README_imgs/aifreeteam.png)
 Welcome to the course 《Python: from business analytics to Artificial Intelligence》 by AI. FREE Team.  
@@ -16,7 +16,7 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
   
 ## 課程大綱 Course Outline
 ### Topic 1: 認識基礎套件 Basic Packages     
-- [認識 NumPy](https://colab.research.google.com/drive/1hH30YgMebLXWmX2inb5FjhLyrFonjpZU?usp=sharing)  
+- [![Colab](https://img.shields.io/badge/認識_NumPy-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1hH30YgMebLXWmX2inb5FjhLyrFonjpZU?usp=sharing) 
 - [認識 Pandas](https://colab.research.google.com/drive/13ToJrKV3XfCRjcqnFA1baTOW2TA-unEo?usp=sharing)  
 - [認識 SciPy]()
 - [認識 Matplot]()
