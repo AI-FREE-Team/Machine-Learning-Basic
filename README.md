@@ -68,7 +68,7 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 [2] [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)  
 [3] [Scikit Learn](https://scikit-learn.org/stable/user_guide.html)  
 > ### 文章 Articles
-[1] [Introduction to Pandas apply, applymap and map](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff, 'DataFrame 中欄位運算的方法')
+[1] [Introduction to Pandas apply, applymap and map](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff 'DataFrame 中欄位運算的方法')
 <br/>
 
 ## 作者 Authors
