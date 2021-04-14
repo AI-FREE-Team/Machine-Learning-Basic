@@ -68,7 +68,8 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 [2] [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)  
 [3] [Scikit Learn](https://scikit-learn.org/stable/user_guide.html)  
 > ### 文章 Articles
-[1] [Introduction to Pandas apply, applymap and map](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff 'DataFrame 中欄位運算的方法')
+[1] [Introduction to Pandas apply, applymap and map](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff 'DataFrame 中欄位運算的方法'), B. Chen, May 11, 2020  
+[2] [How to Use datetime.timedelta in Python With Examples](https://miguendes.me/how-to-use-datetimetimedelta-in-python-with-examples '日期時間的加減計算'), Miguel Brito, Nov 14, 2020  
 <br/>
 
 ## 作者 Authors
