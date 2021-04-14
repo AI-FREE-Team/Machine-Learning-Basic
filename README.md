@@ -33,7 +33,7 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 - [網頁爬蟲 Web Scrapping]()
 - [![Colab](https://img.shields.io/badge/資料整合_Data_Integration-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1t61fErC9iMCugNpX8m1feE9uhnCmXSpz?usp=sharing) 
 - [![Colab](https://img.shields.io/badge/缺失值_Missing_Value-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1n3-OCg-yV1sakr3GR8Hfnv9Wdlh1Pp7T?usp=sharing)  
-- [日期時間 DateTime]()
+- [![Colab](https://img.shields.io/badge/日期時間_Dates_and_Times-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1ZrJQKRhfTp1ZQOLtNhjsJFOEH5At5eqU?usp=sharing)
 - [資料離散化 Data Discretization]() 
 - [標籤編碼/獨熱編碼 Onehot/Label Encoder]()
 - [字串處理 String Processing]() 
