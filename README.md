@@ -15,6 +15,10 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
   
   
 ## 課程大綱 Course Outline
+
+:star:  數據與特徵決定了機器學習的上限，而模型和演算法則只是在逼近上限。   
+:star:  Data and characteristics determine the upper limit of machine learning, and models and algorithms just approach this upper limit.  
+
 ### Topic 1: 認識基礎套件 Basic Packages     
 - [![Colab](https://img.shields.io/badge/認識_NumPy-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1hH30YgMebLXWmX2inb5FjhLyrFonjpZU?usp=sharing) 
 - [![Colab](https://img.shields.io/badge/認識_Pandas-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/13ToJrKV3XfCRjcqnFA1baTOW2TA-unEo?usp=sharing) 
@@ -68,8 +72,9 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 [2] [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)  
 [3] [Scikit Learn](https://scikit-learn.org/stable/user_guide.html)  
 > ### 文章 Articles
-[1] [Introduction to Pandas apply, applymap and map](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff 'DataFrame 中欄位運算的方法'), B. Chen, May 11, 2020  
-[2] [How to Use datetime.timedelta in Python With Examples](https://miguendes.me/how-to-use-datetimetimedelta-in-python-with-examples '日期時間的加減計算'), Miguel Brito, Nov 14, 2020  
+[1] [Introduction to Pandas apply, applymap and map](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff 'DataFrame 中欄位運算的方法'), B. Chen, May 11, 2020.  
+[2] [How to Use datetime.timedelta in Python With Examples](https://miguendes.me/how-to-use-datetimetimedelta-in-python-with-examples '日期時間的加減計算'), Miguel Brito, Nov 14, 2020.  
+[3] [An Introduction to Discretization Techniques for Data Scientists](https://towardsdatascience.com/an-introduction-to-discretization-in-data-science-55ef8c9775a2 '資料離散化的方法'), Rohan Gupta, Dec 7, 2019.
 <br/>
 
 ## 作者 Authors
