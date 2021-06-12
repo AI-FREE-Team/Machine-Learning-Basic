@@ -21,7 +21,7 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 
 ### Topic 1: 認識基礎套件 Basic Packages     
 - [![Colab](https://img.shields.io/badge/認識_NumPy-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_NumPy.ipynb) 
-- [![Colab](https://img.shields.io/badge/認識_Pandas-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/13ToJrKV3XfCRjcqnFA1baTOW2TA-unEo?usp=sharing) 
+- [![Colab](https://img.shields.io/badge/認識_Pandas-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_Pandas.ipynb) 
 - [認識 SciPy]()
 - [認識 Matplot]()
 
