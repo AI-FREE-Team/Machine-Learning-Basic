@@ -1,5 +1,0 @@
-name,schema,description
-a_lvr_land_a_build.xls,schema-build.csv,臺北市建物不動產買賣
-a_lvr_land_a_park.xls,schema-park.csv,臺北市停車場不動產買賣
-a_lvr_land_a.xls,schema-main.csv,臺北市不動產買賣
-a_lvr_land_a_land.xls,schema-land.csv,臺北市土地不動產買賣
