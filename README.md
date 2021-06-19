@@ -19,21 +19,41 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 :star:  數據與特徵決定了機器學習的上限，而模型和演算法則只是在逼近上限。   
 :star:  Data and characteristics determine the upper limit of machine learning, and models and algorithms just approach this upper limit.  
 
-### Topic 1: 認識基礎套件 Basic Packages     
-- [![Colab](https://img.shields.io/badge/認識_NumPy-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_NumPy.ipynb) 
-- [![Colab](https://img.shields.io/badge/認識_Pandas-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_Pandas.ipynb) 
-- [認識 SciPy]()
-- [認識 Matplot]()
 
-### Topic 2: 介紹基礎的統計概念 Basic Statistics
+<h3><b>
+<details>
+<summary>Topic 1: 認識基礎套件 Basic Packages
+</summary> 
+  
+***
+- [![Colab](https://img.shields.io/badge/認識_NumPy-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_NumPy.ipynb)   
+- [![Colab](https://img.shields.io/badge/認識_Pandas-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_Pandas.ipynb)    
+- [認識 SciPy]()  
+- [認識 Matplot]()   
+</details>  
+</b></h3>
+
+<h3><b>
+<details>
+<summary>Topic 2: 介紹基礎的統計概念 Basic Statistics
+</summary> 
+  
+***
 - [名詞介紹 - 敘述統計 Descriptive Statistics]() 
 - [常態分配 Normal Distribution]()
 - [離群值 Outlier/Noise]()
 - [相關係數 Correlations]()
 - [偏態 Skewness]()
 - [共線性 Collinearity]()
-
-### Topic 3: 資料前處理 Data Pre-processing    
+</details>  
+</b></h3>
+  
+<h3><b>
+<details>
+<summary>Topic 3: 資料前處理 Data Pre-processing  
+</summary>   
+  
+***
 - [網頁爬蟲 Web Scrapping]()
 - [![Colab](https://img.shields.io/badge/資料整合_Data_Integration-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%B3%87%E6%96%99%E6%95%B4%E5%90%88_Data_Integration.ipynb) 
 - [![Colab](https://img.shields.io/badge/缺失值_Missing_Value-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1n3-OCg-yV1sakr3GR8Hfnv9Wdlh1Pp7T?usp=sharing) 
@@ -43,15 +63,29 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 - [![Colab](https://img.shields.io/badge/字串處理_String_Processing-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1gsbnC3PdlVgHkBqJbiXOecMFJFamRZns?usp=sharing) 
 - [特徵重要性 Feature Importance]()
 - [![Colab](https://img.shields.io/badge/特徵降維_Data_Reduction-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1vTpFo1dhr5CNtYoXNeLpyY1yX1Z4Tr7H?usp=sharing)
-
-### Topic 4: 資料視覺化 Data Visualization  
+</details>  
+</b></h3>
+   
+<h3><b>
+<details>
+<summary>Topic 4: 資料視覺化 Data Visualization  
+</summary>   
+  
+***
 - [面積圖 Area Plot]()  
 - [散佈圖/圓餅圖 Scatter Plot/Pie Chart]()  
 - [長條圖/直方圖 Bar Plot/Histogram]()  
 - [盒鬚圖 Box Plot]()  
 - [熱圖 Heatmap]()  
+</details>  
+</b></h3>
 
-### Topic 5: 機器學習模型 ML Models 
+<h3><b>
+<details>
+<summary>Topic 5: 機器學習模型 ML Models  
+</summary>   
+  
+***
 > 監督式學習 Supervised Learning
 - [線性迴歸/邏輯迴歸 Linear Regression/Logistic Regression]()  
 - [支援向量機 Support Vector Machine, SVM ]()  
@@ -62,6 +96,9 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 
 > 非監督式學習 Unsupervised Learning
 - [集群分析 K-means Clustering]()
+<br/>
+</details>  
+</b></h3>
 <br/>
 
 
