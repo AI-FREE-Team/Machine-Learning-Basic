@@ -29,7 +29,7 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 - [![Colab](https://img.shields.io/badge/認識_NumPy-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_NumPy.ipynb)   
 - [![Colab](https://img.shields.io/badge/認識_Pandas-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_Pandas.ipynb)    
 - [認識 SciPy]()  
-- [認識 Matplot]()   
+- [![Colab](https://img.shields.io/badge/認識_Matplot and Seaborn-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_Matplot_Seaborn.ipynb)   
 </details>  
 </b></h3>
 
@@ -72,6 +72,7 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 </summary>   
   
 ***
+- [![Colab](https://img.shields.io/badge/折線圖及面積圖-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%A6%96%E8%A6%BA%E5%8C%96_%E6%8A%98%E7%B7%9A%E5%9C%96_%E9%9D%A2%E7%A9%8D%E5%9C%96.ipynb)
 - [面積圖 Area Plot]()  
 - [散佈圖/圓餅圖 Scatter Plot/Pie Chart]()  
 - [長條圖/直方圖 Bar Plot/Histogram]()  
