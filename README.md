@@ -28,7 +28,7 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 ***
 - [![Colab](https://img.shields.io/badge/認識_NumPy-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_NumPy.ipynb)   
 - [![Colab](https://img.shields.io/badge/認識_Pandas-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_Pandas.ipynb)    
-- [認識 SciPy]()  
+- [![Colab](https://img.shields.io/badge/認識 SciPy-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_Matplot_Seaborn.ipynb) 
 - [![Colab](https://img.shields.io/badge/認識_Matplot及Seaborn-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E8%AA%8D%E8%AD%98_Matplot_Seaborn.ipynb)   
 </details>  
 </b></h3>
