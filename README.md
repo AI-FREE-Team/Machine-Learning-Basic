@@ -39,8 +39,8 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 </summary> 
   
 ***
-- [名詞介紹 - 敘述統計 Descriptive Statistics]() 
-- [常態分配 Normal Distribution]()
+- [![Colab](https://img.shields.io/badge/敘述統計_-Google_Colab-yellow.svg)](https://github.com/AI-FREE-Team/Machine-Learning-Basic/blob/main/Materials/%E7%B5%B1%E8%A8%88%E6%A6%82%E5%BF%B5_%E6%95%98%E8%BF%B0%E7%B5%B1%E8%A8%88.ipynb) 
+- [![Colab](https://img.shields.io/badge/分佈介紹_Distribution-Google_Colab-yellow.svg)](https://github.com/AI-FREE-Team/Machine-Learning-Basic/blob/main/Materials/%E7%B5%B1%E8%A8%88%E6%A6%82%E5%BF%B5_%E6%95%98%E8%BF%B0%E7%B5%B1%E8%A8%88.ipynb)
 - [離群值 Outlier/Noise]()
 - [相關係數 Correlations]()
 - [偏態 Skewness]()
