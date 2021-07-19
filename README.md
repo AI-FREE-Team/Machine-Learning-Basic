@@ -39,12 +39,11 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 </summary> 
   
 ***
-- [![Colab](https://img.shields.io/badge/敘述統計_Descriptive_Statistics-Google_Colab-yellow.svg)](https://github.com/AI-FREE-Team/Machine-Learning-Basic/blob/main/Materials/%E7%B5%B1%E8%A8%88%E6%A6%82%E5%BF%B5_%E6%95%98%E8%BF%B0%E7%B5%B1%E8%A8%88.ipynb) 
-- [![Colab](https://img.shields.io/badge/統計分佈_Distribution-Google_Colab-yellow.svg)](https://github.com/AI-FREE-Team/Machine-Learning-Basic/blob/main/Materials/%E7%B5%B1%E8%A8%88%E6%A6%82%E5%BF%B5_%E7%B5%B1%E8%A8%88%E5%88%86%E5%B8%83.ipynb)
-- [離群值 Outlier/Noise]()
-- [相關係數 Correlations]()
-- [偏態 Skewness]()
-- [共線性 Collinearity]()
+- [![Colab](https://img.shields.io/badge/敘述統計_Descriptive_Statistics-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E7%B5%B1%E8%A8%88%E6%A6%82%E5%BF%B5_%E6%95%98%E8%BF%B0%E7%B5%B1%E8%A8%88.ipynb) 
+- [![Colab](https://img.shields.io/badge/統計分佈_Distribution-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E7%B5%B1%E8%A8%88%E6%A6%82%E5%BF%B5_%E7%B5%B1%E8%A8%88%E5%88%86%E5%B8%83.ipynb)
+- [![Colab](https://img.shields.io/badge/離群值_Outlier_偏態_Skewness-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E7%B5%B1%E8%A8%88%E6%A6%82%E5%BF%B5_%E9%9B%A2%E7%BE%A4%E5%80%BC_%E5%81%8F%E5%B3%B0%E6%85%8B.ipynb)
+- [![Colab](https://img.shields.io/badge/相關係數_Correlations_共線性_Collinearity-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E7%B5%B1%E8%A8%88%E6%A6%82%E5%BF%B5_%E7%9B%B8%E9%97%9C%E4%BF%82%E6%95%B8_%E5%85%B1%E7%B7%9A%E6%80%A7.ipynb)
+- [![Colab](https://img.shields.io/badge/統計檢驗_Hypothesis-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E7%B5%B1%E8%A8%88%E6%A6%82%E5%BF%B5_%E7%B5%B1%E8%A8%88%E6%AA%A2%E9%A9%97.ipynb)
 </details>  
 </b></h3>
   
