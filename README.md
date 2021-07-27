@@ -84,6 +84,10 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 <summary>Topic 5: 機器學習模型 ML Models  
 </summary>   
   
+<br/>   
+  
+- [![Colab](https://img.shields.io/badge/機器學習的用語_Terminologies_of_Machine_Learning-Google_Colab-yellow.svg)](https://colab.research.google.com/github/AI-FREE-Team/Machine-Learning-Basic/blob/master/Materials/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%9A%84%E7%94%A8%E8%AA%9E_Terminologies_of_ML.ipynb)
+  
 ***
 > 監督式學習 Supervised Learning
 - [線性迴歸/邏輯迴歸 Linear Regression/Logistic Regression]()  
@@ -113,7 +117,9 @@ Welcome to the course 《Python: from business analytics to Artificial Intellige
 [2] [How to Use datetime.timedelta in Python With Examples](https://miguendes.me/how-to-use-datetimetimedelta-in-python-with-examples '日期時間的加減計算'), Miguel Brito, Nov 14, 2020.  
 [3] [An Introduction to Discretization Techniques for Data Scientists](https://towardsdatascience.com/an-introduction-to-discretization-in-data-science-55ef8c9775a2 '資料離散化的方法'), Rohan Gupta, Dec 7, 2019.  
 [4] [Categorical encoding using Label-Encoding and One-Hot-Encoder](https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd '標籤編碼與獨熱編碼'), Dinesh Yadav, Dec 7, 2019.  
-[5] [PCA — how to choose the number of components ?](https://www.mikulskibartosz.name/pca-how-to-choose-the-number-of-components/ '特徵降微 : 主成份分析 PCA'), Bartosz Mikulski, Jun 3, 2019.
+[5] [PCA — how to choose the number of components ?](https://www.mikulskibartosz.name/pca-how-to-choose-the-number-of-components/ '特徵降微 : 主成份分析 PCA'), Bartosz Mikulski, Jun 3, 2019.  
+[6] [Mean Squared Error or R-Squared – Which one to use ?](https://vitalflux.com/mean-square-error-r-squared-which-one-to-use/), Ajitesh Kumar, Sep 30, 2020.     
+[7] [Splitting a Dataset into Train and Test Sets](https://www.baeldung.com/cs/train-test-datasets-ratio), A. Aylin Tokuç, Jan 14, 2021.  
 <br/>
 
 ## 作者 Authors
